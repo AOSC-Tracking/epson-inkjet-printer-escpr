@@ -36,6 +36,8 @@
 
 #include "libprtX.h"
 
+#include "custompage.h"
+
 #define WIDTH_BYTES(bits) (((bits) + 31) / 32 * 4)
 
 #define PIPSLITE_WRAPPER_VERSION "* epson-escpr-wrapepr is a part of " PACKAGE_STRING

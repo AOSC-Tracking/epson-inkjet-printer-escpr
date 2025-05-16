@@ -33,6 +33,7 @@
 #include "epson-protocol.h"
 #include "epson-escpr-api.h"
 #include "epson-escpr-mem.h"
+#include "epson-escpr-services.h"
 
 #include "err.h"
 #include "mem.h"
